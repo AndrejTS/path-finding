@@ -1,0 +1,3 @@
+b3 Potraviny
+j8 Lékárna
+d4 Drogerie
